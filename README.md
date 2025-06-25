@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy José Smith Méndez Hernández  
+# ¡Hola! 👋 Soy José Smith Méndez Hernández
 
 🔭 **Desarrollador de Software** |  📫 Contáctame: smithmendez098@gmail.com  
 
