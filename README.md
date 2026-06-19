@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy José Smith Méndez Hernández
 
-🔭 **Desarrollador de Software** |  📫 Contáctame: smithmendez098@gmail.com  
+🔭 **Desarrollador de Software**  
 
 ### 🛠️ **Tecnologías y herramientas**  
 - 💻 Lenguajes:JavaScript  
