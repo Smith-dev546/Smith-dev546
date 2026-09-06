@@ -15,24 +15,3 @@ Soy estudiante de **tercer año de la Ingeniería en Desarrollo de Software** y 
 
 #### **🎯 Actualmente Aprendiendo / Expandiendo mi Stack:**
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,docker)](https://skillicons.dev)
-
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver un resumen de mi actividad y rendimiento como desarrollador:
-
-![Estadísticas de GitHub](https://vercel.app)
-![Lenguajes más usados](https://vercel.app)
-
----
-
-### 📫 Conéctate conmigo
-
-¡Siempre estoy abierto a colaborar en proyectos interesantes, aprender nuevas tecnologías o simplemente charlar sobre desarrollo de software!
-
-* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* 📧 **Correo Electrónico:** tu-correo@email.com
-* 🌐 **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com) (Opcional)
-
