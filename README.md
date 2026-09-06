@@ -5,20 +5,16 @@
 
 Soy estudiante de **tercer año de la Ingeniería en Desarrollo de Software** y un apasionado por crear soluciones tecnológicas eficientes, escalables y con un diseño impecable. Me enfoco en el desarrollo Full Stack, combinando una lógica sólida en el backend con interfaces de usuario intuitivas en el frontend.
 
----
 ### 🛠️ Tecnologías y Herramientas
 
-#### **Mi Stack Principal**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+#### **Frontend**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react)](https://skillicons.dev)
 
-#### **🎯 Actualmente Aprendiendo / Expandiendo mi Stack**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Aprendiendo" />
-  </a>
-</p>
+#### **Backend & Herramientas**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,git,github)](https://skillicons.dev)
 
-
+#### **🎯 Actualmente Aprendiendo / Expandiendo mi Stack:**
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,docker)](https://skillicons.dev)
 
 
 ---
