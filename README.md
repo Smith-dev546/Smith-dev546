@@ -8,9 +8,20 @@ Soy estudiante de **tercer año de la Ingeniería en Desarrollo de Software** y 
 ---
 ### 🛠️ Tecnologías y Herramientas
 
-* 💻 **Frontend:** HTML5 | CSS3 | JavaScript | TypeScript | React
-* ⚙️ **Backend & Control de Versiones:** Node.js | PHP | Git | GitHub
-* 🎯 **Aprendiendo & Expandiendo mi Stack:** Python | MySQL | Docker
+#### **Mi Stack Principal**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Mi Stack Tecnológico" />
+  </a>
+</p>
+
+#### **🎯 Actualmente Aprendiendo / Expandiendo mi Stack**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Aprendiendo" />
+  </a>
+</p>
+
 
 
 
