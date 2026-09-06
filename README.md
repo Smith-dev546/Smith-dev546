@@ -9,11 +9,7 @@ Soy estudiante de **tercer año de la Ingeniería en Desarrollo de Software** y 
 ### 🛠️ Tecnologías y Herramientas
 
 #### **Mi Stack Principal**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Mi Stack Tecnológico" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 #### **🎯 Actualmente Aprendiendo / Expandiendo mi Stack**
 <p align="left">
